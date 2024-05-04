@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class documento {
-    public static int multiplicar(int a, int b) {
+    public static int realizarMultiplicacion(int a, int b) {
         int resultado = a * b;
         return resultado;
     }
